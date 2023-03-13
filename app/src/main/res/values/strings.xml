@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Password">Password</string>
+    <string name="ReTypePassword">ReTypePassword</string>
+    <string name="Submit">Submit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Name">NAme</string>
+    <string name="Email">Email</string>
 </resources>
